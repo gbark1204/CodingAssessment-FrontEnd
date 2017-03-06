@@ -1,22 +1,22 @@
-#GiftCards.com Front End Developers Coding Assessment
+#Wolfe, LLC Front End Developers Coding Assessment
 
 ##Coding Assessment
--------------
 
-The coding assessment for the Front End Developer will be centered around a scenario which they will need to complete 3 tasks. These tasks match what the UI team does on a daily basis and it will test the candidates on their completion skills and coding style.
+This assessment covers some skills that the Front End Developer will perform
+on a daily basis, and it will test the candidates on those skills and their
+individual coding style. There isn't really any right or wrong answers. 
+Avoid copy/paste from other websites, but feel free to look to the web for ideas.
 
 ##How to Submit Assessment
--------------
 
-Clone GitHub repository onto local development machine. Complete the coding assessment and commit to your GitHub account. Provide link to repository containing changes for assessment. Provide to GiftCards development team for consideration.
+Clone GitHub repository onto local development machine. Complete the coding assessment 
+and commit to your GitHub account. Email a link to your repository containing the
+completed assessment. 
 
 
 ##Coding Tasks
--------------
 ###Task F1:
-Write an HTML5 application that will allow a user to upload a photo and show them their uploaded image.
-###Task F2:
-Convert the following CSS into either a LESS or SASS file:
+Convert the following CSS into one SASS or LESS file named F1.scss or F1.less:
 ```
 .current
 {
@@ -79,5 +79,22 @@ Convert the following CSS into either a LESS or SASS file:
 }
 ```
 
-###Task F3:
-Write an HTML5 application that will call the Google Images API - https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=giftcards.com&rsz=8?v=1.0&q=giftcards.com&rsz=8 and show the 8 images that are contained in the responseData
+###Task F2:
+Write a responsive web page, F2.html, that matches the following parameters:
+1. Header bar with a logo on the left, and 4 menu items on the right. 
+- use any image or https://d1e5fyppsl97wz.cloudfront.net/v11-16-1-rc-2/images/SaveYa-Logo.png
+- 4 menu items: 'Buy Gift Cards', 'Sell Gift Cards', 'Partners', 'Contact' 
+(don't bother creating those pages)
+2. The menu should collapse to a rectangle with the word 'Menu' inside at smaller sized 
+view. The 4 menu items should slide-down-reveal when the button is clicked.
+3. There should be a hero section under the header bar that contains an image background 
+that covers the whole hero section, but does not skew at any size view.
+- use any image or https://d3ox5oa3lgo0ps.cloudfront.net/main-banner-blue.jpg
+4. Centered header text inside hero that reads, "Hello World!".
+5. Centered sub header text inside hero underneath header text that reads, 
+"A test webpage.".
+6. Add a paragraph of Lorem Ipsum text under the hero
+7. Add a footer section that's a grey background with white centered text that reads 
+"Goodbye, World!"
+
+You may use a frontend framework(s).

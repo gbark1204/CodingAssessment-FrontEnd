@@ -4,7 +4,7 @@
 
 This assessment covers some skills that the Front End Developer will perform
 on a daily basis, and it will test the candidates on those skills and their
-individual coding style. There isn't really any right or wrong answers. 
+individual coding style. There are several methods to go about each item in the assessment.
 Avoid copy/paste from other websites, but feel free to look to the web for ideas.
 
 ##How to Submit Assessment

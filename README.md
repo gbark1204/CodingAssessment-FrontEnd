@@ -82,14 +82,14 @@ Convert the following CSS into one SASS or LESS file named F1.scss or F1.less:
 ###Task F2:
 Write a responsive web page, F2.html, that matches the following parameters:
 1. Header bar with a logo on the left, and 4 menu items on the right. 
-- use any image or https://d1e5fyppsl97wz.cloudfront.net/v11-16-1-rc-2/images/SaveYa-Logo.png
-- 4 menu items: 'Buy Gift Cards', 'Sell Gift Cards', 'Partners', 'Contact' 
+..* use any image or https://d1e5fyppsl97wz.cloudfront.net/v11-16-1-rc-2/images/SaveYa-Logo.png
+..* 4 menu items: 'Buy Gift Cards', 'Sell Gift Cards', 'Partners', 'Contact' 
 (don't bother creating those pages)
 2. The menu should collapse to a rectangle with the word 'Menu' inside at smaller sized 
 view. The 4 menu items should slide-down-reveal when the button is clicked.
 3. There should be a hero section under the header bar that contains an image background 
 that covers the whole hero section, but does not skew at any size view.
-- use any image or https://d3ox5oa3lgo0ps.cloudfront.net/main-banner-blue.jpg
+..* use any image or https://d3ox5oa3lgo0ps.cloudfront.net/main-banner-blue.jpg
 4. Centered header text inside hero that reads, "Hello World!".
 5. Centered sub header text inside hero underneath header text that reads, 
 "A test webpage.".
